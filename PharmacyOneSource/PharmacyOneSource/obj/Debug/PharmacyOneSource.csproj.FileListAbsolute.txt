@@ -1,0 +1,16 @@
+C:\GitHub\PharmacyOneSource\PharmacyOneSource\bin\Debug\PharmacyOneSource.exe
+C:\GitHub\PharmacyOneSource\PharmacyOneSource\bin\Debug\PharmacyOneSource.pdb
+C:\GitHub\PharmacyOneSource\PharmacyOneSource\obj\Debug\PharmacyOneSource.exe
+C:\GitHub\PharmacyOneSource\PharmacyOneSource\obj\Debug\PharmacyOneSource.pdb
+C:\GitHub\PharmacyOneSource\PharmacyOneSource\obj\Debug\PharmacyOneSource.csprojResolveAssemblyReference.cache
+C:\GitHub\PharmacyOneSource\PharmacyOneSource\bin\Debug\Core.dll
+C:\GitHub\PharmacyOneSource\PharmacyOneSource\bin\Debug\Core.pdb
+C:\Users\sbeveridge\Downloads\PharmacyOneSource\PharmacyOneSource\PharmacyOneSource\obj\Debug\PharmacyOneSource.exe
+C:\Users\sbeveridge\Downloads\PharmacyOneSource\PharmacyOneSource\PharmacyOneSource\obj\Debug\PharmacyOneSource.pdb
+C:\Users\sbeveridge\Downloads\PharmacyOneSource\PharmacyOneSource\PharmacyOneSource\bin\Debug\PharmacyOneSource.exe
+C:\Users\sbeveridge\Downloads\PharmacyOneSource\PharmacyOneSource\PharmacyOneSource\bin\Debug\PharmacyOneSource.pdb
+C:\Users\sbeveridge\Downloads\PharmacyOneSource\PharmacyOneSource\PharmacyOneSource\bin\Debug\Core.dll
+C:\Users\sbeveridge\Downloads\PharmacyOneSource\PharmacyOneSource\PharmacyOneSource\bin\Debug\Core.pdb
+C:\Users\sbeveridge\Downloads\PharmacyOneSource\PharmacyOneSource\PharmacyOneSource\obj\Debug\PharmacyOneSource.csprojResolveAssemblyReference.cache
+C:\Users\sbeveridge\Desktop\PharmacyOneSource\PharmacyOneSource\PharmacyOneSource\obj\Debug\PharmacyOneSource.exe
+C:\Users\sbeveridge\Desktop\PharmacyOneSource\PharmacyOneSource\PharmacyOneSource\obj\Debug\PharmacyOneSource.pdb

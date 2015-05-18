@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmacyOneSource", "PharmacyOneSource\PharmacyOneSource.csproj", "{03DDEAAD-77D8-474C-834F-1756A46AF7E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{D23F16CF-B81E-4E17-826F-9CDFEB5E1D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest1", "UnitTest1\UnitTest1.csproj", "{74B63AF1-BB3F-4B1A-B1C9-5C5CBBBBA4AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03DDEAAD-77D8-474C-834F-1756A46AF7E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DDEAAD-77D8-474C-834F-1756A46AF7E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03DDEAAD-77D8-474C-834F-1756A46AF7E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03DDEAAD-77D8-474C-834F-1756A46AF7E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23F16CF-B81E-4E17-826F-9CDFEB5E1D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23F16CF-B81E-4E17-826F-9CDFEB5E1D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23F16CF-B81E-4E17-826F-9CDFEB5E1D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23F16CF-B81E-4E17-826F-9CDFEB5E1D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74B63AF1-BB3F-4B1A-B1C9-5C5CBBBBA4AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B63AF1-BB3F-4B1A-B1C9-5C5CBBBBA4AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B63AF1-BB3F-4B1A-B1C9-5C5CBBBBA4AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B63AF1-BB3F-4B1A-B1C9-5C5CBBBBA4AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
